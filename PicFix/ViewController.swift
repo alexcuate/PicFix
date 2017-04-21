@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  PicFix
 //
-//  Created by Gabriel Trujillo Gómez on 4/20/17.
+//  Created by Gabriel Trujillo Gómez/Alex vazquez on 4/20/17.
 //  Copyright © 2017 PicFix. All rights reserved.
 //
 
